@@ -50,7 +50,7 @@ const LoginPage: React.FC = () => {
                 CRM Studio
             </h2>
             <p className="mt-2 text-sm text-gray-600">
-                Đăng nhập vào tài khoản của bạn
+                Hãy đăng nhập vào tài khoản của bạn
             </p>
         </div>
 
