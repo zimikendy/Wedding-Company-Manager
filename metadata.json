@@ -1,0 +1,5 @@
+{
+  "name": "CRM Studio",
+  "description": "A comprehensive CRM application for studios, designed to manage projects, clients, staff, finances, and scheduling. It features a role-based dashboard, project tracking, financial analytics, and more.",
+  "requestFramePermissions": []
+}
